@@ -72,11 +72,11 @@ nav ul li a{
     border-top-right-radius: 30px ;
 }
 .feature-img{
-    width: 530px;
+    width: 550px;
     height: 90%;
     position: absolute;
     bottom: 0;
-    right: 10%;
+    left: 58%;
 }
 .feature-img.anim{
     animation-delay: 1.5s;
